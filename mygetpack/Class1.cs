@@ -8,5 +8,6 @@ namespace mygetpack
         public string OneStdsdssring { get; set; }
         public string OneStdsddsdssring { get; set; }
         public string OneStdsddsdsdssring { get; set; }
+        public string OneStdsddsdsdsdsdsdssring { get; set; }
     }
 }
